@@ -1,0 +1,7 @@
+parent_id,id,name,metadata:url
+,all,All,/browse/all
+all,jackets,Jackets,/browse/jackets
+all,tops,Tops,/browse/tops
+tops,tops-athletic,Athletic Tops,/browse/tops/athletic
+tops,tops-casual,Casual Tops,/browse/tops/casual
+all,bottoms,Bottoms,/browse/bottoms
