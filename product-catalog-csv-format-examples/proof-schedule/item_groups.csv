@@ -1,4 +1,4 @@
-parent_id,id,name,metadata:url
+parent_id,id,name,data:url
 ,all,All,/browse/all
 all,jackets,Jackets,/browse/jackets
 all,tops,Tops,/browse/tops
