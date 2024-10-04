@@ -1,6 +1,6 @@
 parent_id,id,name,data
 ,all,All,"{ ""url"": ""/browse/all"" }"
-all,jackets,Jackets,"{ ""url"": ""/browse/jackets” }"
+all,jackets,Jackets,"{ ""url"": ""/browse/jackets"" }"
 all,tops,Tops,"{ ""url"": ""/browse/tops"" }"
 tops,tops-athletic,Athletic Tops,"{ ""url"": ""/browse/tops/athletic"" }"
 tops,tops-casual,Casual Tops,"{ ""url"": ""/browse/tops/casual"" }"
