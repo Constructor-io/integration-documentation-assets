@@ -1,3 +1,3 @@
 variation_id,item_id,item_name,image_url,facet:color,url,active
-cotton-t-shirt-red,cotton-t-shirt,Cotton T-Shirt - Red,https://constructor.io/media/cotton-t-shirt.jpg,Red,https://constructor.io/products/cotton-t-shirt-red,TRUE
-cotton-t-shirt-blue,cotton-t-shirt,Cotton T-Shirt - Blue,https://constructor.io/media/cotton-t-shirt-blue.jpg,Blue,https://constructor.io/products/cotton-t-shirt-blue,FALSE
+cotton-t-shirt-red,cotton-t-shirt,Cotton T-Shirt - Red,https://constructorio-integrations.s3.amazonaws.com/tikus-threads/2022-06-29/KNIT-CASUAL-SHIRT_BUTTON-DOWN-KNIT-SHIRT_BKT00110SR1734_3_category.jpg,Red,https://constructor.com/,TRUE
+cotton-t-shirt-blue,cotton-t-shirt,Cotton T-Shirt - Blue,https://constructorio-integrations.s3.amazonaws.com/tikus-threads/2022-06-29/WOVEN-CASUAL-SHIRT_BUTTON-DOWN-WOVEN-SHIRT_BSH01757SN1770_3_category.jpg,Blue,https://constructor.com/,FALSE
