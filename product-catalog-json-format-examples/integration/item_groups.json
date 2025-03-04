@@ -9,8 +9,8 @@
     },
     {
       "parent_id": "all",
-      "id": "Jackets",
-      "name": "All",
+      "id": "jackets",
+      "name": "Jackets",
       "data": {
         "url": "/browse/jackets"
       }
