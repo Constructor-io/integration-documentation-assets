@@ -1,0 +1,51 @@
+{
+  "item_groups": [
+    {
+      "id": "all",
+      "name": "All",
+      "data": {
+        "url": "/browse/all"
+      }
+    },
+    {
+      "parent_id": "all",
+      "id": "Jackets",
+      "name": "All",
+      "data": {
+        "url": "/browse/jackets"
+      }
+    },
+    {
+      "parent_id": "all",
+      "id": "tops",
+      "name": "Tops",
+      "data": {
+        "url": "/browse/tops"
+      }
+    },
+    {
+      "parent_id": "tops",
+      "id": "tops-athletic",
+      "name": "Athletic Tops",
+      "data": {
+        "url": "/browse/tops/athletic"
+      }
+    },
+    {
+      "parent_id": "tops",
+      "id": "tops-casual",
+      "name": "Casual Tops",
+      "data": {
+        "url": "/browse/tops/casual"
+      }
+    },
+    {
+      "parent_id": "all",
+      "id": "bottoms",
+      "name": "Bottoms",
+      "data": {
+        "url": "/browse/bottoms"
+      }
+    }
+  ]
+}
