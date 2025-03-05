@@ -10,15 +10,11 @@
         "tops-casual"
       ],
       "data": {
-        "facets": {
-          "product_type": [
-            "Shirts",
-            "T-Shirts"
-          ],
-          "material": [
-            "Cotton"
-          ]
-        },
+        "product_type": [
+          "Shirts",
+          "T-Shirts"
+        ],
+        "material": "Cotton",
         "keywords": [
           "gym",
           "casual",

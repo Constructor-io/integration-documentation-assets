@@ -7,11 +7,7 @@
       "data": {
         "image_url": "https://constructorio-integrations.s3.amazonaws.com/tikus-threads/2022-06-29/KNIT-CASUAL-SHIRT_BUTTON-DOWN-KNIT-SHIRT_BKT00110SR1734_3_category.jpg",
         "url": "https://constructor.com/",
-        "facets": {
-          "color": [
-            "Red"
-          ]
-        },
+        "color": "Red",
         "active": true
       }
     },
@@ -22,11 +18,7 @@
       "data": {
         "image_url": "https://constructorio-integrations.s3.amazonaws.com/tikus-threads/2022-06-29/WOVEN-CASUAL-SHIRT_BUTTON-DOWN-WOVEN-SHIRT_BSH01757SN1770_3_category.jpg",
         "url": "https://constructor.com/",
-        "facets": {
-          "color": [
-            "Blue"
-          ]
-        },
+        "color": "Blue",
         "active": false
       }
     }
