@@ -1,0 +1,2 @@
+{"id": "tops", "name": "Tops", "data": {"seo_title": "All tops"}}
+{"id": "t-shirts", "name": "T-Shirts", "parent_id": "tops", "data": {"seo_title": "T-Shirts for everyone"}}
