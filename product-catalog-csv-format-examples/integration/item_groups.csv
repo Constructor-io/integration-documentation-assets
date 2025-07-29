@@ -1,7 +1,10 @@
-parent_id,id,name,data
-,all,All,"{ ""url"": ""/browse/all"" }"
-all,jackets,Jackets,"{ ""url"": ""/browse/jackets"" }"
-all,tops,Tops,"{ ""url"": ""/browse/tops"" }"
-tops,tops-athletic,Athletic Tops,"{ ""url"": ""/browse/tops/athletic"" }"
-tops,tops-casual,Casual Tops,"{ ""url"": ""/browse/tops/casual"" }"
-all,bottoms,Bottoms,"{ ""url"": ""/browse/bottoms"" }"
+parent_ids,id,name,data
+[],all,All,"{ ""url"": ""/browse/all"" }"
+"[""all""]",jackets,Jackets,"{ ""url"": ""/browse/jackets"" }"
+"[""all""]",tops,Tops,"{ ""url"": ""/browse/tops"" }"
+"[""tops""]",tops-athletic,Athletic Tops,"{ ""url"": ""/browse/tops/athletic"" }"
+"[""tops""]",tops-casual,Casual Tops,"{ ""url"": ""/browse/tops/casual"" }"
+"[""all""]",bottoms,Bottoms,"{ ""url"": ""/browse/bottoms"" }"
+"[""tops"",""jackets""]",hybrid-top-jackets,Hybrid Tops & Jackets,"{ ""url"": ""/browse/hybrid-tops-jackets"" }"
+"[""tops"",""bottoms""]",matching-sets,Matching Sets,"{ ""url"": ""/browse/matching-sets"" }"
+"[""jackets"",""bottoms""]",outerwear-bottom-combos,Outerwear + Bottom Combos,"{ ""url"": ""/browse/outerwear-bottom-combos"" }"
